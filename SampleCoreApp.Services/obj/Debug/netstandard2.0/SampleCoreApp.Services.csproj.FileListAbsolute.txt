@@ -1,0 +1,11 @@
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\bin\Debug\netstandard2.0\SampleCoreApp.Services.deps.json
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\bin\Debug\netstandard2.0\SampleCoreApp.Services.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\bin\Debug\netstandard2.0\SampleCoreApp.Services.pdb
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\bin\Debug\netstandard2.0\SampleCoreApp.Domain.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\bin\Debug\netstandard2.0\SampleCoreApp.Domain.pdb
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\obj\Debug\netstandard2.0\SampleCoreApp.Services.csprojAssemblyReference.cache
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\obj\Debug\netstandard2.0\SampleCoreApp.Services.AssemblyInfoInputs.cache
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\obj\Debug\netstandard2.0\SampleCoreApp.Services.AssemblyInfo.cs
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\obj\Debug\netstandard2.0\SampleCoreApp.Services.csproj.CopyComplete
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\obj\Debug\netstandard2.0\SampleCoreApp.Services.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Services\obj\Debug\netstandard2.0\SampleCoreApp.Services.pdb

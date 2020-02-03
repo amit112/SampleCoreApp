@@ -1,0 +1,11 @@
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\bin\Debug\netstandard2.0\SampleCoreApp.Repository.deps.json
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\bin\Debug\netstandard2.0\SampleCoreApp.Repository.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\bin\Debug\netstandard2.0\SampleCoreApp.Repository.pdb
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\bin\Debug\netstandard2.0\SampleCoreApp.Domain.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\bin\Debug\netstandard2.0\SampleCoreApp.Domain.pdb
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\obj\Debug\netstandard2.0\SampleCoreApp.Repository.csprojAssemblyReference.cache
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\obj\Debug\netstandard2.0\SampleCoreApp.Repository.AssemblyInfoInputs.cache
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\obj\Debug\netstandard2.0\SampleCoreApp.Repository.AssemblyInfo.cs
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\obj\Debug\netstandard2.0\SampleCoreApp.Repository.csproj.CopyComplete
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\obj\Debug\netstandard2.0\SampleCoreApp.Repository.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Repository\obj\Debug\netstandard2.0\SampleCoreApp.Repository.pdb

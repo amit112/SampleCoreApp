@@ -1,0 +1,8 @@
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\bin\Debug\netstandard2.0\SampleCoreApp.Domain.deps.json
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\bin\Debug\netstandard2.0\SampleCoreApp.Domain.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\bin\Debug\netstandard2.0\SampleCoreApp.Domain.pdb
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\obj\Debug\netstandard2.0\SampleCoreApp.Domain.csprojAssemblyReference.cache
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\obj\Debug\netstandard2.0\SampleCoreApp.Domain.AssemblyInfoInputs.cache
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\obj\Debug\netstandard2.0\SampleCoreApp.Domain.AssemblyInfo.cs
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\obj\Debug\netstandard2.0\SampleCoreApp.Domain.dll
+C:\Users\amitm\OneDrive\Documents\My Web Sites\SampleCoreApp.Domain\obj\Debug\netstandard2.0\SampleCoreApp.Domain.pdb
